@@ -131,7 +131,7 @@ public class ColourGridApplication {
     }
 
     public static void main(String[] args) {
-
+        // Any color array and row, column can be provided
         final String[][] colourGrid = generateColourGrid(12, 10,
                 new String[]{"RED", "GREEN", "BLUE"});
 
